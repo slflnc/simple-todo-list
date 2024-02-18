@@ -1,0 +1,11 @@
+.calendar_default_main {
+    font-size: 10pt;
+    padding: 10px;
+    opacity: 1;
+    height: 100vh;
+    flex-grow: 1; 
+    overflow: auto; 
+    box-sizing: border-box;
+}
+
+
